@@ -1,4 +1,4 @@
-![mobileappDevlopment](https://user-images.githubusercontent.com/102575349/181700180-b0a0d340-8584-4aeb-8f71-741f1f5db3c4.png)
+![mainheader](https://user-images.githubusercontent.com/102529828/181733444-743b4383-3527-49f8-b921-26c046bcbaa8.png)
 <h2 align="center"> Aventri: An Integrated Event Registration Application for Student Organizations
 
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
@@ -10,6 +10,22 @@
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Registration, queuing, and manual check-in were just a few of the many tasks that event organizers were required to complete. These procedures are frequently carried out by hand or using traditional methods. However, the days of filling out paper registration forms and mailing checks to events are long gone. It's not only out of date in comparison to more modern, streamlined processes. This issue is easily solved by utilizing modern technology.
 
 <p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; Aventri is an application that supports online registration and feedback evaluation for event training programs such as games, seminars and workshops. It helps program attendees and organizers in their respective activities. Development of an event management application is an attempt to address the problems of managing registration forms, feedback forms and evaluating feedback. The main goal of this application is to give a working solution to store, manage and consolidate the registration data and the feedback data. When using aventri the participants can simply register at their convenience and submit their information immediately. The participant can do corrections as needed without worrying about erasing or cutting. The information the participant sends will be immediately loaded into the database. Organizers don’t have to worry about sorting the information submitted by participants; the database will be updated automatically, and that is a massive advantage in terms of saving time. 
+
+<h3> SDG </h3> <i class="fa-solid fa-1"></i>
+
+<p align=justify> &nbsp;&nbsp;&nbsp;&nbsp; The SDGs which this project aims to attain are Decent Work and Economic Growth, Sustainable Cities and Communities and Partnerships for the Goals. These SDGs are further described as follows:
+
+<h3> Goal 8: Decent Work and Economic Growth </h3> <i class="fa-solid fa-1"></i>
+
+![sdg8](https://user-images.githubusercontent.com/102529828/181732978-0b7032cb-dc9a-4c38-8ec1-16dd09f58cdf.png)
+
+<h3> Goal 11: Sustainable Cities and Communities </h3> <i class="fa-solid fa-1"></i>
+
+![sdg11](https://user-images.githubusercontent.com/102529828/181733041-37136a2f-b40d-481f-b91f-e44bb9b2df92.png)
+
+<h3> Goal 11: Goal 17: Partnerships for the Goals </h3> <i class="fa-solid fa-1"></i>
+
+![sdg17](https://user-images.githubusercontent.com/102529828/181733228-4745f881-6a35-4005-8b3b-9d86a0364884.png)
  
  <h3> Purpose and Description </h3> <i class="fa-solid fa-1"></i>
  
