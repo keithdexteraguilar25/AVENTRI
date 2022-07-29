@@ -1,5 +1,5 @@
 ![mobileappDevlopment](https://user-images.githubusercontent.com/102575349/181700180-b0a0d340-8584-4aeb-8f71-741f1f5db3c4.png)
-<h1 align="center"> AVENTRI
+<h2 align="center"> Aventri: An Integrated Event Registration Application for Student Organizations
 
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
  <p align=justify>
