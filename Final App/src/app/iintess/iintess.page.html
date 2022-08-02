@@ -1,0 +1,140 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-button color="primary" class="backbtn" routerLink="/home" routerDirection="back">
+        <img src="../../assets/back-dark.svg" />
+      </ion-button>
+    </ion-buttons>
+
+    <ion-buttons slot="end">
+      <ion-button>
+        <ion-icon name="search-outline" color="dark"></ion-icon>
+      </ion-button>
+      <ion-button class="notification">
+        <ion-icon name="notifications-outline" color="dark"></ion-icon>
+        <span>&nbsp;</span>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-slides pager="true" class="product-slider">
+    <ion-slide>
+      <img src="../../assets/product-slider/bann1.jpg" />
+    </ion-slide>
+    <ion-slide>
+      <img src="../../assets/product-slider/bann2.jpg" />
+    </ion-slide>
+    <ion-slide>
+      <img src="../../assets/product-slider/bann3.jpg" />
+    </ion-slide>\
+    <ion-slide>
+      <img src="../../assets/product-slider/bann4.jpg" />
+    </ion-slide>
+  </ion-slides>
+
+  <div class="ion-padding-vertical">
+    <h1 class="item-name">IINTESS</h1>
+
+    <h4 class="price">
+      Batangas State University
+    </h4>
+  </div>
+
+  <div class="seperator">
+    <hr>
+  </div>
+
+  <div class="review">
+    <ion-row>
+      <ion-col size="6">
+        <div class="rating">
+          Rate
+        </div>
+
+        Good
+      </ion-col>
+      <ion-col size="6">
+        <div class="count">1059 Reviews</div>
+      </ion-col>
+    </ion-row>
+  </div>
+
+  <div class="seperator">
+    <hr>
+  </div>
+
+  <div class="description">
+    <h5>Description</h5>
+
+    <p>
+      A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.
+    </p>
+
+  </div>
+
+  <div class="seperator">
+    <hr>
+  </div>
+
+  <div class="variation">
+    <ion-segment (ionChange)="segmentChanged($event)" value="size">
+      <ion-segment-button value="size">
+        <ion-label>Select Rating</ion-label>
+      </ion-segment-button>
+      <ion-segment-button value="color">
+        <ion-label>Share</ion-label>
+      </ion-segment-button>
+    </ion-segment>
+  </div>
+
+  <div class="seperator">
+    <hr>
+  </div>
+
+  <div class="variation-selector">
+    <div class="sizes" [class.active-variation]="activeVariation == 'size'">
+      <div [class.active]="selectedSize == 1" (click)="changeSize(1)">
+        <img src="../../assets/product-slider/sta.png" />
+      </div>
+      <div [class.active]="selectedSize == 2" (click)="changeSize(2)">
+        <img src="../../assets/product-slider/sta.png" />
+      </div>
+      <div [class.active]="selectedSize == 3" (click)="changeSize(3)">
+        <img src="../../assets/product-slider/sta.png" />
+      </div>
+      <div [class.active]="selectedSize == 4" (click)="changeSize(4)">
+        <img src="../../assets/product-slider/sta.png" />
+      </div>
+      <div [class.active]="selectedSize == 5" (click)="changeSize(5)">
+        <img src="../../assets/product-slider/sta.png" />
+      </div>
+    </div>
+
+    <div class="colors" [class.active-variation]="activeVariation == 'color'">
+      <div [class.active]="selectedColor == 1" (click)="changeColor(1)">
+        <img src="../../assets/product-slider/fb1.png" />
+      </div>
+      <div [class.active]="selectedColor == 2" (click)="changeColor(2)">
+        <img src="../../assets/product-slider/ig1.png" />
+      </div>
+      <div [class.active]="selectedColor == 3" (click)="changeColor(3)">
+        <img src="../../assets/product-slider/tt1.png" />
+      </div>
+      <div [class.active]="selectedColor == 4" (click)="changeColor(4)">
+        <img src="../../assets/product-slider/snap1.png" />
+      </div>
+    </div>
+  </div>
+</ion-content>
+<ion-footer>
+  <ion-row>
+    <ion-col size="6">
+      <ion-button expand="full" color="light">Remove</ion-button>
+    </ion-col>
+    <ion-col size="6">
+      <ion-button expand="full">Rate</ion-button>
+    </ion-col>
+  </ion-row>
+</ion-footer>

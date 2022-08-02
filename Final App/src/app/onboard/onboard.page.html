@@ -1,0 +1,53 @@
+<ion-header>
+
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-slides pager="true">
+    <ion-slide class="ion-padding">
+      <img src="../../assets/slide1.png" >
+
+      <div class="slider-text">
+        <b><h2>Easy Exchange!</h2></b>
+
+        <p>
+          Aventri's end-to-end event management platform makes it easy for event organizers to plan, promote, monetize and deliver engaging virtual, hybrid and in-person event experiences.
+        </p>
+      </div>
+
+      <div class="navigator">
+        <ion-button color="primary" fill="clear" (click)="skip()">SKIP</ion-button>
+        <ion-button color="primary" fill="clear" (click)="next()">NEXT</ion-button>
+      </div>
+    </ion-slide>
+    <ion-slide class="ion-padding">
+      <img src="../../assets/slide2.png" >
+
+      <div class="slider-text">
+        <h2>Easy to Use!</h2>
+
+        <p>
+          Aventri is an all-in-one event management solution that makes events modern and trendy, attracts and engages attendees effectively, and helps event organizers save time.
+        </p>
+      </div>
+
+      <div class="navigator">
+        <ion-button color="primary" fill="clear" (click)="skip()">SKIP</ion-button>
+        <ion-button color="primary" fill="clear" (click)="next()">NEXT</ion-button>
+      </div>
+    </ion-slide>
+    <ion-slide class="ion-padding">
+      <img src="../../assets/slide3.png" >
+
+      <div class="slider-text">
+        <h2>Connect with Others</h2>
+
+        <p>
+          Organizers don’t have to worry about sorting the information submitted by participants; the database will be updated automatically, and that is a massive advantage in terms of saving time.
+        </p>
+      </div>
+
+      <ion-button color="primary" routerLink="/home" routerDirection="forward">GET STARTED</ion-button>
+    </ion-slide>
+  </ion-slides>
+</ion-content>
