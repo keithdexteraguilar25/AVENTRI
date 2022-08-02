@@ -39,10 +39,8 @@
 
  <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Event Organizer.</b> The study will benefit the event organizers as they can easily monitor event participants, registration, and the participants feedback to the event. The application also allow the event organizer to assess the participants reservation they can show, add, edit, delete, monitor and secure all the reservations. The study focuses on the events transaction and online reservations that will help the event organizers work be easier and convenient because of the automated processes. 
 
- <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Event Participant.</b> The application allows the participants to view upcoming events and they can register online. The the event participants will benefit from the study as they can easily and conveniently register to the event, browse for the upcoming events, and give feedback to the event that they have attended.
+ <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Event Participant.</b> The purpose of Avantri is to give a better and good service  to the client. To provide information and ideas about the events to make it  successful. Users can easily look for an online event service and can automatically book for the specified transaction.
   
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Proponents.</b> The proponents who built this application can also benefit from the project as it helps them practice and enhance skills and mind resulting in a useful and more creative application. By working as a team the proponents have improved cooperating with each other and have better time management to accomplish goals that would produce good results. 
-
-<p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Students.</b> The purpose of Avantri is to give a better and good service  to the client. To provide information and ideas about the events to make it  successful. Users can easily look for an online event service and can automatically book for the specified transaction.
 
 <p align=justify><b> &nbsp;&nbsp;&nbsp;&nbsp; Future Researchers.</b> Behind those students who will undergo research study soon. It will serve as a reference to them. Especially to those proposed application which are related to Event Management Application.
