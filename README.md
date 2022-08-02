@@ -1,5 +1,5 @@
 ![mainheader](https://user-images.githubusercontent.com/102529828/181733444-743b4383-3527-49f8-b921-26c046bcbaa8.png)
-<h2 align="center"> Aventri: An Integrated Event Registration Application for Student Organizations
+<h2 align="center"> AVENTRI: A Hybrid Event Registration Application for Student Organizations
 
 <h3> Introduction </h3> <i class="fa-solid fa-1"></i>
  <p align=justify>
